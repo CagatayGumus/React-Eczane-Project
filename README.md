@@ -8,7 +8,7 @@ In this project the goal is to create a desktop application which fulfil the nee
 | :------------ |:---------------:| -----:|
 | React      | :arrow_right: | 90 |
 | Javascript      | :arrow_right:       |   80 |
-| Css | :arrow_right:        |    70 |
+| REST API's| :arrow_right:        |    70 |
 | Semantic UI | :arrow_right:        |    95 |
 
 ## Application Images
