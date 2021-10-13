@@ -15,7 +15,7 @@ In this project the goal is to create a desktop application which fulfil the nee
 
 <p>
 <a href="https://github.com/CagatayGumus/React-Eczane-Project/blob/main/images/eczane%20anamenu.png" target="_blank">
-<img src="https://github.com/CagatayGumus/React-Eczane-Project/blob/main/images/eczane%20anamenu.png" style="max-width:100%;"></a>
+<img src="https://github.com/CagatayGumus/React-Eczane-Project/blob/main/images/eczane%20anamenu.png"  width="200" style="max-width:100%;"></a>
   
 <a href="https://github.com/CagatayGumus/React-Eczane-Project/blob/main/images/eczaneler.png" target="_blank">
 <img src="https://github.com/CagatayGumus/React-Eczane-Project/blob/main/images/eczaneler.png" width="200" style="max-width:100%;"></a>
